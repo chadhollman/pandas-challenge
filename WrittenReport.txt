@@ -1,0 +1,12 @@
+Analysis Summary:
+
+In this analysis, I gathered a school districts budgets and test scores and broke those metrics down by each school's individual performance.
+I further identified the highest and lowest performing scores by passing rate and compared each school's scoring with their size, school type (district vs charter), and spending per student.
+I also broke down passing rates by grade.
+
+Conclusions:
+Based off the results from this analysis, we can conclude that:
+A) increasing the spending rates per student did not improve their testing scores
+B) test scores dropped significantly once schools entered the 2000-5000 student range
+C) charter schools accounted for all of the top 5 performing schools, while district schools accounted for the bottom 5
+D) district schools performed significantly worse in their math testing scores compared to charter schools
